@@ -90,12 +90,12 @@ For an ideal boost converter:
 
 **Vout = Vin / (1 - D)**
 
-The complete Simulink model is available for download below.
-
-[Download Simulink Model](SolarPVMPPTBoost.slx)
-
 Software Used
 - MATLAB
 - Simulink
 - Simscape / Simscape Electrical
+
+The complete Simulink model is available for download below.
+
+[Download Simulink Model](SolarPVMPPTBoost.slx)
 
